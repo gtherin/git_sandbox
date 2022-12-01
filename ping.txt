@@ -1,22 +1,7 @@
-Wed Nov 16 15:53:19 UTC 2022 :  gtherin was here
-Wed Nov 16 15:53:35 UTC 2022 :  gtherin was here
-Wed Nov 16 18:52:21 UTC 2022 :  gtherin was here
-Wed Nov 16 19:23:43 UTC 2022 :  gtherin was here
-Thu Dec 1 09:44:11 UTC 2022 :  Gastier was here
-Thu Dec 1 09:46:34 UTC 2022 :  jmolina was here
-Thu Dec 1 09:47:04 UTC 2022 :  jmolina was here
-Thu Dec 1 09:47:54 UTC 2022 :  AGohar was here
-Thu Dec 1 09:48:09 UTC 2022 :  AGohar was here
-log: Thu Dec 1 09:50:34 UTC 2022 :  Pierre-Olivier Briat was here
-log: Thu Dec 1 09:50:52 UTC 2022 :  Pierre-Olivier Briat was here
-Thu Dec 1 09:56:43 UTC 2022 :  qvaunac was here
-Thu Dec 1 09:59:42 UTC 2022 :  qvaunac was here
-Thu Dec 1 10:01:08 UTC 2022 :  Gastier was here
-Thu Dec 1 10:03:14 UTC 2022 :  ltrias was here
-Thu Dec 1 10:05:02 UTC 2022 :  ltrias was here
-Thu Dec 1 10:05:34 UTC 2022 :  Loic was here
-Thu Dec 1 10:06:54 UTC 2022 :  Loic was here
-Thu Dec 1 10:08:20 UTC 2022 :  Ilyas was here
-Thu Dec 1 10:08:57 UTC 2022 :  Ilyas was here
-Thu Dec 1 10:09:02 UTC 2022 :  Ilyas was here
-Thu Dec 1 10:09:31 UTC 2022 :  Ilyas was here
+rgardon has commit this file at  Thu Dec 1 10:10:35 UTC 2022
+______ _____   ___  ____________ _____ _   _                       _
+| ___ \  __ \ / _ \ | ___ \  _  \  _  | \ | |                     | |
+| |_/ / |  \// /_\ \| |_/ / | | | | | |  \| | __      ____ _ ___  | |__   ___ _ __ ___
+|    /| | __ |  _  ||    /| | | | | | | .     \ \ /\ / / _  / __| |  _ \ / _ \  __/ _ \
+| |\ \| |_\ \| | | || |\ \| |/ /\ \_/ / |\  |  \ V  V / (_| \__ \ | | | |  __/ | |  __/
+\_| \_|\____/\_| |_/\_| \_|___/  \___/\_| \_/   \_/\_/ \__,_|___/ |_| |_|\___|_|  \___|
