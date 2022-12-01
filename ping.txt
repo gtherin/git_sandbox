@@ -15,3 +15,4 @@ Thu Dec 1 10:30:51 UTC 2022 : La gow d'Adrien jclacoffe was here
 Thu Dec 1 10:30:34 UTC 2022 : Célia was here 
 >>>>>>> d499160b2859b66e5ba66dd719230a48e9fd44af
 Thu Dec 1 10:31:54 UTC 2022 :  jmolina was here
+Thu Dec 1 10:33:32 UTC 2022 :  CDuquesnoy was here
