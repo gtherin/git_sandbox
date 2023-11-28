@@ -6,5 +6,4 @@ def plot_cosinus():
     angle = np.arange(360)
     cosinus = np.cos(2 * np.pi * angle /360)
 
-    plt.plot(angle, cosinus)    
-    
+    plt.plot(angle, cosinus)
