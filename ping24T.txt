@@ -4,3 +4,11 @@ Tue Jan 16 10:42:05 PM UTC 2024 :  tester has a message for you:
 Tue Jan 16 10:42:05 PM UTC 2024 : Message in a bottle
 Wed Jan 17 08:05:40 AM UTC 2024 :  quentin has a message for you:
 Please have a great day!
+Wed Jan 17 08:05:55 AM UTC 2024 :  enzo has a message for you:
+  ____       _                    __  ___     
+ | __ )  ___| |_   _  __ _  __ _  \ \/ / |    
+ |  _ \ / _ \ | | | |/ _ |  \  /| |    
+ | |_) |  __/ | |_| | (_| | (_| |  /  \| |___ 
+ |____/ \___|_|\__,_|\__, |\__,_| /_/\_\_____|
+                     |___/                   
+ 
