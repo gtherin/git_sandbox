@@ -1,3 +1,5 @@
+import sys
+
 def main(token):
     #!pip install pyjwt[crypto]
     import jwt
@@ -11,3 +13,7 @@ def main(token):
     for c in command.split("\n"):
         print(c)
         IPython.get_ipython().run_cell(c)
+
+if __name__ == '__main__':
+    print(sys.argv)
+    sys.exit(main("egazega"))
