@@ -1,6 +1,6 @@
 import sys
 
-def main(token):
+def init_env_from_token(token):
     #!pip install pyjwt[crypto]
     import jwt
     import subprocess
@@ -13,7 +13,3 @@ def main(token):
     for c in command.split("\n"):
         print(c)
         IPython.get_ipython().run_cell(c)
-
-if __name__ == '__main__':
-    print(sys.argv)
-    sys.exit(main("egazega"))
